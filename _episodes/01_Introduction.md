@@ -14,10 +14,6 @@ keypoints:
  - "Notebooks are useful! Don't be put off by the techie talk :)"
 ---
 
-## Overview
-
-This workshop will introduce you to Jupyter Notebooks. You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop you will have a good understanding of what notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people's notebooks as springboards for your own adventures!
-
 ### Introduction
 
 Computational notebooks have been around since the late 1980s. Essentially a notebook is an advanced word processor. Also known as a notebook interface, the concept is that it is a virtual notebook environment used for literate programming. 'Literate programming' pairs the functionality of word processing software with both the shell and kernel of that notebook's programming language.
@@ -39,22 +35,23 @@ Image credit: [University of Michigan Special Collections Library](https://www.l
 
 Jupyter Notebooks have exploded in popularity over the past couple of years, now supporting additional languages and being used by more and more people from different disciplines.
 
-### Activity
-
-In pairs, talk about the language used in the introductions. Are you familiar with these terms? What are the words that trip you up? Think of a way to remember what that word means in this context that might help others understand it better. How could you re-write some of the introductory text above to make it easier to understand?
-
-Add your definitions to some of the terms we'll be using in today's workshop Etherpad, and remember to keep adding them as we go. This will be a useful resource for us all later!
-
- - Computational notebook
- - Literate programming
- - Code
- - Rich text
- - Open-source
- - Computational output
- - Documentation
- - Cell
- - Kernel
- - Markdown
- - Command line
- - Vector
- - Array
+>### Activity
+>
+>In pairs, talk about the language used in the introductions. Are you familiar with these terms? What are the words that trip you up? Think of a way to remember what that word means in this context that might help others understand it better. How could you re-write some of the introductory text above to make it easier to understand?
+>
+>Add your definitions to some of the terms we'll be using in today's workshop Etherpad, and remember to keep adding them as we go. This will be a useful resource for us all later!
+>
+> - Computational notebook
+> - Literate programming
+> - Code
+> - Rich text
+> - Open-source
+> - Computational output
+> - Documentation
+> - Cell
+> - Kernel
+> - Markdown
+> - Command line
+> - Vector
+> - Array
+{: .challenge}
