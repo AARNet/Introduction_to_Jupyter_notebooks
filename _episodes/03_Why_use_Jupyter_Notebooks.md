@@ -36,11 +36,24 @@ Notebooks are being used in an ever-increasing number of domains, by a large ran
 - Signal Processing
 - Engineering Education
 
->### Activity
+>## Activity
 >
->More and more researchers from different fields are adopting Jupyter Notebooks as part of their research practice. Take a look at the following and discuss how Jupyter Notebooks might be useful in different disciplines:
+>More and more researchers from different fields are adopting Jupyter Notebooks as part of their research practice.
+
+> 1. Take a look at the following and discuss how Jupyter Notebooks might be useful in different disciplines:
+
+> Humanities:
 >
->- [Programming Historian](https://programminghistorian.org/)
->- [GLAM Workbench](https://glam-workbench.github.io/)
->- [Digital Humanities Laboratory](https://github.com/dhlab-epfl?language=jupyter+notebook)
+> - [Programming Historian](https://programminghistorian.org/)
+> - [GLAM Workbench](https://glam-workbench.github.io/)
+> - [Digital Humanities Laboratory](https://github.com/dhlab-epfl?language=jupyter+notebook)
+>
+> Social Sciences:
+>
+> - [Programming in Psychology](https://blog.efpsa.org/2016/07/12/python-programming-in-psychology-from-data-collection-to-analysis/)
+> - [Geography - Three reasons to use Jupyter Notebooks as a GIS user](https://www.esri.com/arcgis-blog/products/analytics/analytics/three-reasons-to-use-jupyter-notebooks-as-a-gis-user/)
+> - [Jupyter Notebooks on various topics](https://ramiro.org/notebooks/)
+
+
+> 2. What else can you find? Share any examples you know about or search online for your discipline + Jupyter Notebooks.
 {: .challenge}

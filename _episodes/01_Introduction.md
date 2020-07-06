@@ -18,7 +18,7 @@ keypoints:
 
 Computational notebooks have been around since the late 1980s. Essentially a notebook is an advanced word processor. Also known as a notebook interface, the concept is that it is a virtual notebook environment used for literate programming. 'Literate programming' pairs the functionality of word processing software with both the shell and kernel of that notebook's programming language.
 
-Notebooks are documents that contain both code and rich text elements, such as links, equations and different ways of visualising data via graphs, tables and figures. Because of the mix of code and text, notebooks are an ideal place to bring together results and an analysis description. Notebooks are really smart documents - they can be executed to perform the data analysis in real time.
+Notebooks are documents that contain both code and rich text elements, such as links, equations and different ways of visualising data via graphs, tables and figures. Because of the mix of code and text, notebooks are an ideal place to bring together results and an analysis description. Notebooks are really smart documents - they can perform data analysis in real time.
 
 ## Jupyter Notebooks
 
@@ -28,6 +28,7 @@ Jupyter Notebooks also refer to Galileo’s original notebooks of his observatio
 
 ![Galileo_manuscript](https://user-images.githubusercontent.com/48195568/62598083-48ef0d80-b927-11e9-9984-335d87bf1bb0.png)
 
+![Galileo_manuscript](\Introduction_to_Jupyter_notebooks\images\Galileo.png)
 
 You can see in this image the title, comments, documentation, equations and diagrams. That’s what Jupyter Notebooks are designed to do, with the added bonus of the computer performing the calculations and creating the visualisations on your behalf. A beautiful 21st century object instead.
 
@@ -35,7 +36,7 @@ Image credit: [University of Michigan Special Collections Library](https://www.l
 
 Jupyter Notebooks have exploded in popularity over the past couple of years, now supporting additional languages and being used by more and more people from different disciplines.
 
->### Activity
+>## Activity
 >
 >In pairs, talk about the language used in the introductions. Are you familiar with these terms? What are the words that trip you up? Think of a way to remember what that word means in this context that might help others understand it better. How could you re-write some of the introductory text above to make it easier to understand?
 >
