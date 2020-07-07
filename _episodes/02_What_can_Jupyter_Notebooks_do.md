@@ -17,12 +17,13 @@ keypoints:
 Jupyter Notebooks offer a hybrid environment in which you can perform computational tasks while also using text to annotate or describe what you and your code blocks are doing. It's a like a mix between the command line and a word processor.
 
 
->“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.”
-
-– description from [Project Jupyter](https://jupyter.org/)
+> “The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.”
+>
+> – description from [Project Jupyter](https://jupyter.org/)
 {: .callout}
 
-## What you can do in Jupyter Notebooks
+## What you can do in Jupyter Notebooks?
+
 #### Data cleaning
 
 [Data cleaning](https://en.wikipedia.org/wiki/Data_cleansing) is about finding and correcting (or removing) inaccuracies from a dataset, a table, or a database. The process involves identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting them.
@@ -45,16 +46,23 @@ A statistical model can be thought of as a statistical assumption (or set of sta
 
 One of the really powerful attributes of Jupyter Notebooks is that of visualisation. In notebooks you can create graphs, tables, plots, heatmaps, charts, mathematical equations and so on. These tools are very helpful for exploration as well as demonstration.
 
-![ipy_0 13](https://user-images.githubusercontent.com/48195568/62591946-84caa880-b910-11e9-954d-fa34b217aa3b.png)
+![ipy_0 13](https://user-images.githubusercontent.com/48195568/62591946-84caa880-b910-11e9-954d-fa34b217aa3b.png)THIS NEEDS TO BE REPLACED
 
-### A Word on Languages  (teehee)
+## A word on languages (tee hee)
 
-Jupyter Notebooks can be used with a variety of different programming languages. Initially they were for Julia, Python and R but now they support many more. If you don't know any languages, it might be helpful to think about the types of tasks you want to perform. Python is currently the most popular language used in Jupyter Notebooks but you should also consider what is commonly used in your field.
+Jupyter Notebooks can be used with a variety of different programming languages. Initially they were for Julia, Python and R but now they support many more.
 
-### Activity
+### Python and R
 
-In pairs, talk about which programming language might make the most sense for you and why.
+At the moment he two most popular programming tools for data science work are Python and R. While Python is often praised for being a general-purpose language with an easy-to-understand syntax, R's functionality is developed with statisticians in mind. It is said that Python is simple and easy to understand and learn, but Python doesn’t have specialized packages for statistical computing, unlike R.
 
-Take a look at [this poster](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) if you don't know where to start.
+If you don't know any languages, it might be helpful to think about the types of tasks you want to perform. Python is currently the most popular language used in Jupyter Notebooks but you should also consider what is commonly used in your field.
 
-When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
+> ## Activity
+>
+> 1. In pairs, talk about which programming language might make the most sense for you and why.
+>
+> 2. Take a look at [this poster](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) if you don't know where to start.
+>
+> When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
+{: .challenge}

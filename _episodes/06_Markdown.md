@@ -98,9 +98,10 @@ Voila! Italics!
 > - Headings
 > - Plain text/bold/italics
 > - Adding, removing and editing cells.
+> - As a stretch goal try adding an image!
 {: .challenge}
 
-It can feel a little strange, as you already know how to do formatting in programs like Word. However, what we are doing here is 'speaking' directly to the computer, with a different kind of interface so you can also perform calcuations, visualisations and use computational methods.
+It can feel a little strange, as you already know how to do formatting in programs like Word. However, what we are doing here is 'speaking' directly to the computer, with a different kind of interface so you can also perform calculations, visualisations and use computational methods.
 
 Remember that the reason Jupyter Notebooks is becoming so popular is because it is a format that allows for commenting and text to sit within the same 'document' as code, mathematical equations and visualisations. You can tell the story of what you are doing as you go, and this is a really useful way of being about to reproduce your results.
 
