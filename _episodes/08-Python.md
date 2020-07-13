@@ -71,7 +71,7 @@ You just did some computing! Hooray!
 
 > ## Activity
 >
-Take a few minutes to change the range of numbers, and/or change the values and see what happens. Have a bit of fun with it - see if you can beat the computer with your lightning speed mental arithmetic skills. Or just be amazed at how fast it can be.
+> Take a few minutes to change the range of numbers, and/or change the values and see what happens. Have a bit of fun with it - see if you can beat the computer with your lightning speed mental arithmetic skills. Or just be amazed at how fast it can be.
 {: .challenge}
 
 ## Creating a list
@@ -89,11 +89,12 @@ print(arr[2])
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
-The command `arr=`` gives the content of the square brackets the value of an 'array'. Each thing in the list has then an automatically appointed number, from its order in the list.
+The command `arr=` gives the content of the square brackets the value of an 'array'. Each thing in the list has then an automatically appointed number, from its order in the list.
 
 > ## Tip
 >
-> Python uses [zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering),  which assigns the first item in a list the position of 0, rather than 1, as is typical in everyday non-programming situations.
+>Python uses [zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering),  which assigns the first item in a list the position of 0, rather than 1, as is typical in everyday non-programming situations.
+{: .callout}
 
 Given that the first number in a list in Python is 0, in this case the word "Jack" is position 0, the second, "Queen" is position 1, and so on.
 
@@ -104,6 +105,7 @@ Those numbers are then what you use to perform your computation or visualisation
 > What would you do to print the items in the list in a different order?
 >
 > (HINT: There are more ways than one!)
+{: .challenge}
 
 ## Creating a dictionary or set
 
@@ -176,6 +178,7 @@ In this case we are showing the keys and values in the dictionary called 'd'.
 >
 > 1. Print the dictionary called 'f' using the 'for' command.
 > 2. Create a new dictionary to add to the employee dataset. You could add yourself as an employee. Choose your own salary!
+{: .callout}
 
 ## A new dictionary
 
