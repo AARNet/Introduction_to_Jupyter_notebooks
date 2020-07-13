@@ -86,6 +86,7 @@ print(arr[0])
 print(arr[1])
 print(arr[2])
 ~~~
+{: .language-python}
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -127,6 +128,7 @@ print (d)
 print (e)
 print (f)
 ~~~
+{: .language-python}
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -143,6 +145,7 @@ d.keys()
 d.values()
 d.items()
 ~~~
+{: .language-python}
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -154,6 +157,7 @@ In your 'code' cell, write the following series of commands:
 for k,v in d.items():
     print (k, v)
 ~~~
+{: .language-python}
 
 Note that indentation? The tab key is important here.
 
@@ -167,6 +171,7 @@ In your 'code' cell, write the following series of commands:
 for k,v in e.items():
     print(k, v)
 ~~~
+{: .language-python}
 
 - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -196,6 +201,7 @@ In your 'code' cell, write the following series of commands:
 en_de = {"red" : "rot", "blue" : "blau", "yellow" : "gelb"}
 print (en_de)
 ~~~
+{: .language-python}
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -217,6 +223,7 @@ In your 'code' cell, write the following series of commands:
 de_fr = {"rot" : "rouge", "blau" : "bleu", "gelb" : "jaune"}
 print ("The French word for red is: " + de_fr[en_de["red"]])
 ~~~
+{: .language-python}
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
