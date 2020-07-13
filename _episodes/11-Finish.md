@@ -3,9 +3,9 @@ title: "Finishing your session"
 teaching: 5
 exercises: 5
 questions:
-- How do you close and shutdown your session?
+- "How do you close and shutdown your session?"
 keypoints:
-- 'Shutdown and save in SWAN_SESSIONS or in your CloudStor directory'
+- "Shutdown and save in SWAN_SESSIONS or in your CloudStor directory"
 ---
 # Finishing your session
 

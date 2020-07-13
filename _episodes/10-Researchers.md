@@ -3,14 +3,14 @@ title: "Jupyter Notebooks in the researcher's toolkit"
 teaching: 5
 exercises: 5
 questions:
-- How are researchers working with Jupyter Notebooks?
+- "How are researchers working with Jupyter Notebooks?"
 objectives:
-- Gain an understanding of Jupyter Notebooks in the field
-- Find out more about Jupyter Notebooks in the cloud
+- "Gain an understanding of Jupyter Notebooks in the field"
+- "Find out more about Jupyter Notebooks in the cloud"
 activity:
- - Try a notebook in a different cloud
+ - "Try a notebook in a different cloud"
 keypoints:
- - Jupyter Notebooks can be used in a range of cloud environments
+ - "Jupyter Notebooks can be used in a range of cloud environments"
 ---
 
 # Jupyter Notebooks in the researcher's toolkit

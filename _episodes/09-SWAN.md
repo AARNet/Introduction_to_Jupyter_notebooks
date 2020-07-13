@@ -3,13 +3,13 @@ title: "Using data in CloudStor"
 teaching: 5
 exercises: 5
 questions:
-- How do you work in Jupyter Notebooks with data stored in CloudStor?
+- "How do you work in Jupyter Notebooks with data stored in CloudStor?"
 objectives:
-- Use data stored in Cloudstor in Jupyter Notebooks
+- "Use data stored in Cloudstor in Jupyter Notebooks"
 activity:
- - Bring a dataset into a notebook
+- "Bring a dataset into a notebook"
 keypoints:
- - This is where the fun begins!
+ - "This is where the fun begins!"
 ---
 
 # Using data in CloudStor
@@ -42,23 +42,35 @@ Make sure you are working in Jupyter Notebooks with the Python kernel running. W
 
 In a code cell type
 
-`import pandas`
+~~~
+import pandas
+~~~
+{: .language-python}
 
 Execute the cell.
 
 In a new code cell type
 
-`pandas.read_csv ("")`
+~~~
+pandas.read_csv ("")
+~~~
+{: .language-python}
 
 and place this public link - https://cloudstor.aarnet.edu.au/plus/s/x2uHIEZubsNuqEh/download - between the quotes so it looks like this:
 
-`pandas.read_csv ("https://cloudstor.aarnet.edu.au/plus/s/x2uHIEZubsNuqEh/download")`
+~~~
+pandas.read_csv ("https://cloudstor.aarnet.edu.au/plus/s/x2uHIEZubsNuqEh/download")
+~~~
+{: .language-python}
 
 Execute the cell.
 
 You can change the file extension to match that of your dataset, eg .csv, .xml, .txt etc. The command is still the same. eg
 
-`pandas.read_xml ("")`
+~~~
+pandas.read_xml ("")
+~~~
+{: .language-python}
 
 will read an xml file.
 
@@ -85,13 +97,19 @@ If using R, you can import data like this:
 
 In a code cell type
 
-`mydata <- read.csv("")`
+~~~
+mydata <- read.csv("")
+~~~
+{: .language-r}
 
 and place the link to the dataset saved in CloudStor between the quotes.
 
 You can change the file extension to match that of your dataset, eg .csv, .xml, .txt etc. The command is still the same. eg
 
-`mydata <- read.xml("")`
+~~~
+mydata <- read.xml("")
+~~~
+{: .language-r}
 
 will read an xml file.
 {% include links.md %}

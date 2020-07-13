@@ -3,14 +3,14 @@ title: "Working in Jupyter Notebooks with Python"
 teaching: 30
 exercises: 15
 questions:
-- How do I get started in Python?
+- "How do I get started in Python?"
 objectives:
-- Use some basic commands in P
+- "Use some basic commands in Python"
 activity:
- - Create a sequence, assign a value, use the sum and print commands
- - Create a list and a dictionary
+ - "Create a sequence, assign a value, use the sum and print commands"
+ - "Create a list and a dictionary"
 keypoints:
- - Coding is all about little steps. Let's start at the beginning!
+ - "Coding is all about little steps. Let's start at the beginning!"
 ---
 
 # Working in Jupyter Notebooks with Python
@@ -24,7 +24,7 @@ At the top left-hand corner of the interface, click on 'File' then 'New'. In the
 A box will open up asking you to select the kernel for the language you want to use. Click on 'Python 3' and then 'Select'. Give your new notebook a name by selecting 'File > Save Notebook As' and then giving your notebook a name, remembering to include the **.ipynb** file extension.
 
 > ## Tip
-Take a look at the top right hand corner of the interface to see the status of the kernel. You will see the name of the programming language, eg Python 3, and a circle next to it if the kernel is idle. If you find you are having trouble running your code you can check to see if the kernel has been interrupted or stopped. If that is the case you can restart the kernel from the 'Kernel' menu on the top left-hand side of the interface.
+> Take a look at the top right hand corner of the interface to see the status of the kernel. You will see the name of the programming language, eg Python 3, and a circle next to it if the kernel is idle. If you find you are having trouble running your code you can check to see if the kernel has been interrupted or stopped. If that is the case you can restart the kernel from the 'Kernel' menu on the top left-hand side of the interface.
 {: .callout}
 
 ## Sequence
@@ -35,7 +35,10 @@ In a new cell, select 'code'. Remember that the code cell looks different to the
 
 Type the following inside the cell:
 
-`list(range(1, 20))`
+~~~
+list(range(1, 20))
+~~~
+{: .language-python}
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -45,7 +48,10 @@ You have just created a list of the range of numbers from 1 to 20. Woohoo!
 
 In the next cell type the following:
 
-`a = list(range(1, 20))`
+~~~
+a = list(range(1, 20))
+~~~
+{: .language-python}
 
 This command tells the computer that the list of numbers you created can now be called 'a'. This is called a 'value'.
 
@@ -53,7 +59,10 @@ This command tells the computer that the list of numbers you created can now be 
 
 In the SAME cell type the following underneath:
 
-`x = sum(a)`
+~~~
+x = sum(a)
+~~~
+{: .language-python}
 
 This second instruction tells the computer to add each of those numbers in the list ('a') together and give that total a value of 'x'.
 
@@ -61,7 +70,10 @@ This second instruction tells the computer to add each of those numbers in the l
 
 In the SAME cell type the following underneath:
 
-`print(x)`
+~~~
+print(x)
+~~~
+{: .language-python}
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -94,7 +106,7 @@ The command `arr=` gives the content of the square brackets the value of an 'arr
 
 > ## Tip
 >
->Python uses [zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering),  which assigns the first item in a list the position of 0, rather than 1, as is typical in everyday non-programming situations.
+> Python uses [zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering),  which assigns the first item in a list the position of 0, rather than 1, as is typical in everyday non-programming situations.
 {: .callout}
 
 Given that the first number in a list in Python is 0, in this case the word "Jack" is position 0, the second, "Queen" is position 1, and so on.
@@ -163,7 +175,7 @@ Note that indentation? The tab key is important here.
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
- In this case we are showing the keys (k) and values (v) in the dictionary called 'd'.
+In this case we are showing the keys (k) and values (v) in the dictionary called 'd'.
 
 In your 'code' cell, write the following series of commands:
 
@@ -209,7 +221,10 @@ You now have the beginnings of a list of colours in both languages. Let's see if
 
 In your 'code' cell, write the following series of commands:
 
-`print (en_de["red"])`
+~~~
+print (en_de["red"])
+~~~
+{: .language-python}
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -221,7 +236,8 @@ In your 'code' cell, write the following series of commands:
 
 ~~~
 de_fr = {"rot" : "rouge", "blau" : "bleu", "gelb" : "jaune"}
-print ("The French word for red is: " + de_fr[en_de["red"]])
+
+  print ("The French word for red is: " + de_fr[en_de["red"]])
 ~~~
 {: .language-python}
 
@@ -230,9 +246,7 @@ Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 By creating a dictionary structure you can now go to French via German.
 
 > ## Activity
->
 > 1. See if you can translate from French to English, and then from German to French.
->
 > 2. Expand on this dictionary.
 {: .challenge}
 {% include links.md %}

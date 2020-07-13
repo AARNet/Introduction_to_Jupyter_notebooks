@@ -2,9 +2,9 @@
 layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
+title: "Introduction to Jupyter Notebooks - a workshop"
 ---
 {% include gh_variables.html %}
-# Introduction to Jupyter Notebooks - a workshop
 
 This workshop will introduce you to Jupyter Notebooks. You will learn what they are, what they do and why you might like to use them.
 
