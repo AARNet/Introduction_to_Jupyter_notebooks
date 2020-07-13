@@ -60,3 +60,4 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 >
 >3.Participants can perform some basic tasks in a notebook, including using Markdown, Python and R.
 {: .challenge}
+{% include links.md %}
