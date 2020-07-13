@@ -77,7 +77,7 @@ If you'd like to know more about 'pandas' try these pages:
 
 - [Pandas (software) - Wikipedia](https://en.m.wikipedia.org/wiki/Pandas_(software))
 
-**Homework**: Watch []'What is pandas? (Introduction to the Q&A series)'](https://www.youtube.com/watch?v=yzIMircGU5I) on YouTube.
+**Homework**: Watch ['What is pandas? (Introduction to the Q&A series)'](https://www.youtube.com/watch?v=yzIMircGU5I) on YouTube.
 
 ## Reading in datasets in R
 
