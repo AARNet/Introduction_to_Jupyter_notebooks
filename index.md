@@ -2,7 +2,6 @@
 layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
-title: Welcome
 ---
 {% include gh_variables.html %}
 # Introduction to Jupyter Notebooks - a workshop
