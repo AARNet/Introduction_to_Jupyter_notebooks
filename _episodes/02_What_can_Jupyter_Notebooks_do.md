@@ -66,3 +66,4 @@ If you don't know any languages, it might be helpful to think about the types of
 >
 > When you are ready, think about how you would recommend Python or R to someone else in your field. Share this with the group.
 {: .challenge}
+{% include links.md %}

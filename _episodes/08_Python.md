@@ -224,3 +224,5 @@ By creating a dictionary structure you can now go to French via German.
 > 1. See if you can translate from French to English, and then from German to French.
 >
 > 2. Expand on this dictionary.
+{: .challenge}
+{% include links.md %}

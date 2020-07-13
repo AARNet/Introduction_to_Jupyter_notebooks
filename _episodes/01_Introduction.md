@@ -56,3 +56,4 @@ Jupyter Notebooks have exploded in popularity over the past couple of years, now
 > - Vector
 > - Array
 {: .challenge}
+{% include links.md %}

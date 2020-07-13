@@ -81,3 +81,4 @@ There are many options. Think about how you work, whether desktop or cloud is mo
 >- Discuss in pairs the benefits and any drawbacks of using Jupyter Notebooks in research.
 >- Can you imagine how Jupyter Notebooks might be used in your field? Look up some examples both in research and teaching or research communication.
 {: .challenge}
+{% include links.md %}

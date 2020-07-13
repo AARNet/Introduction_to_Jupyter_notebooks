@@ -57,3 +57,4 @@ Notebooks are being used in an ever-increasing number of domains, by a large ran
 
 > 2. What else can you find? Share any examples you know about or search online for your discipline + Jupyter Notebooks.
 {: .challenge}
+{% include links.md %}

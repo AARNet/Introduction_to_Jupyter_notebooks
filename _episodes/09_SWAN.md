@@ -94,3 +94,4 @@ You can change the file extension to match that of your dataset, eg .csv, .xml, 
 `mydata <- read.xml("")`
 
 will read an xml file.
+{% include links.md %}

@@ -110,3 +110,4 @@ If you want to know more about Markdown, take a look at these pages:
  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
  - [Markdown Guide](https://markdown-guide.readthedocs.io/en/latest/basics.html)
  - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+{% include links.md %}
