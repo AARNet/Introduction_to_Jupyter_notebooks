@@ -5,7 +5,7 @@ exercises: 5
 questions:
 - "What can notebooks do?"
 objectives:
-- "Understand what you can do with notebooks."
+- "Understand what you can do with notebooks"
 activity:
  - "How could you see a notebook being useful to you?"
 keypoints:
