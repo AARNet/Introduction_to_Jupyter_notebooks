@@ -15,6 +15,8 @@ When you start a session in SWAN you are using an allocation of a cloud computer
 
 Once you have a running session, you can check at any time which Notebook files are active by clicking the Running icon on the left-hand side of the interface.
 
+![Running_icon](\Introduction_to_Jupyter_notebooks\images\Shutdown.png)
+
 To shutdown an active session, click **SHUT DOWN** next to the item you wish to shutdown.
 
 ## Do I have to shutdown my Notebook when I am not using it?

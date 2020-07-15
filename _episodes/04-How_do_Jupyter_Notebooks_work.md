@@ -3,13 +3,13 @@ title: "How do Jupyter Notebooks work?"
 teaching: 10
 exercises: 10
 questions:
-- How do Jupyter Notebooks work?
+- "How do Jupyter Notebooks work?"
 objectives:
-- Understand how notebooks run and how they are different to the command line
+- "Understand how notebooks run and how they are different to the command line"
 activity:
- - Look at an example on GitHub
+ - "Look at an example on GitHub"
 keypoints:
- - You don't need anything special to run a notebook - just a browser will do!
+ - "You don't need anything special to run a notebook - just a browser will do!"
 ---
 
 ## How do Jupyter Notebooks work?
@@ -52,17 +52,17 @@ Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an 
 
 > ## Activity
 >
-> - In small groups, take a look at an example of a Jupyter Notebook. Start here: [LINK TO COVID-19 NOTEBOOK IN AARNET GITHUB REPO]
+> - In small groups, take a look at an example of a Jupyter Notebook. Open the [COVID-19 Analysis Dashboard](https://github.com/sarasrking/Introduction_to_Jupyter_notebooks/blob/master/notebooks/COVID-19%20Data%20Analysis%20with%20R.ipynb).
 > - See if you can identify the cells, what is input and what is output, and what is markdown. Discuss the types of output.
 > - Examine the code. Different colours are used. Have you seen that before? Why do you think different colours are used?
 > - If you have seen or used the command line before, can you think of any reasons why Notebooks might be easier to use? Discuss your ideas and experiences with the group. If you haven't used the command line before, have a think about why notebooks could be less daunting for beginners.
 {: .challenge}
 
-> ## Key points
+> ## Remember
 >
 > - Jupyter Notebooks can either run on a remote server via the internet or on your desktop with no internet
 > - Jupyter Notebooks require a kernel (computational engine) to execute code e.g. Python or R
 > - A notebook runs and stores the code and output, with markdown notes
 > - A notebook is an editable document with input and output cells
-{: .keypoints}
+{: .callout}
 {% include links.md %}

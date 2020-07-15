@@ -6,8 +6,8 @@ questions:
 - "What are notebooks?"
 - "What do all these words mean?"
 objectives:
-- "Understand what notebooks are."
-- "Talk about terminology."
+- "Understand what notebooks are"
+- "Talk about terminology"
 activity:
  - "Bust some jargon!"
 keypoints:
@@ -26,13 +26,10 @@ Jupyter is named after three computer programming languages - **Ju**lia, **Pyt**
 
 Jupyter Notebooks also refer to Galileo’s original notebooks of his observations of celestial bodies. These have all been digitized now and are really beautiful historical objects. Here are the notes he made on his discovery of Jupiter’s moons:
 
-![Galileo_manuscript](https://user-images.githubusercontent.com/48195568/62598083-48ef0d80-b927-11e9-9984-335d87bf1bb0.png)
-
 ![Galileo_manuscript](\Introduction_to_Jupyter_notebooks\images\Galileo.png)
+Image credit: [University of Michigan Special Collections Library](https://www.lib.umich.edu/special-collections-research-center/galileo-manuscript)
 
 You can see in this image the title, comments, documentation, equations and diagrams. That’s what Jupyter Notebooks are designed to do, with the added bonus of the computer performing the calculations and creating the visualisations on your behalf. A beautiful 21st century object instead.
-
-Image credit: [University of Michigan Special Collections Library](https://www.lib.umich.edu/special-collections-research-center/galileo-manuscript)
 
 Jupyter Notebooks have exploded in popularity over the past couple of years, now supporting additional languages and being used by more and more people from different disciplines.
 

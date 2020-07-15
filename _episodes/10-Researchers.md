@@ -8,7 +8,7 @@ objectives:
 - "Gain an understanding of Jupyter Notebooks in the field"
 - "Find out more about Jupyter Notebooks in the cloud"
 activity:
- - "Try a notebook in a different cloud"
+ - "Look for the ways Jupyter Notebooks are being used in different fields"
 keypoints:
  - "Jupyter Notebooks can be used in a range of cloud environments"
 ---
@@ -35,7 +35,7 @@ The answers were:
 
 ### Jupyter Notebooks for exploring data
 
-- [OzGLAM Data Workbench](https://github.com/GLAM-Workbench/ozglam-workbench) - Dr Tim Sherratt (University of Canberra)
+- [OzGLAM Data Workbench](https://github.com/GLAM-Workbench/ozglam-workbench)
 - [Programming Historian](https://programminghistorian.org/)
 - [Cervantes Virtual](http://data.cervantesvirtual.com/blog/notebooks/)
 

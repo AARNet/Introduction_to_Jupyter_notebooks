@@ -3,13 +3,13 @@ title: "What do Jupyter Notebooks do?"
 teaching: 5
 exercises: 5
 questions:
-- What can notebooks do?
+- "What can notebooks do?"
 objectives:
-- Understand what you can do with notebooks.
+- "Understand what you can do with notebooks."
 activity:
- - How could you see a notebook being useful to you?
+ - "How could you see a notebook being useful to you?"
 keypoints:
- - Notebooks might not be for you! But if they are, they could accelerate your research and be a good friend in a time of need. Or just improve a few processes to make life less tedious. :)
+ - "Notebooks might not be for you! But if they are, they could accelerate your research and be a good friend in a time of need. Or just improve a few processes to make life less tedious. :)"
 ---
 
 # What can Jupyter Notebooks do?
@@ -46,7 +46,9 @@ A statistical model can be thought of as a statistical assumption (or set of sta
 
 One of the really powerful attributes of Jupyter Notebooks is that of visualisation. In notebooks you can create graphs, tables, plots, heatmaps, charts, mathematical equations and so on. These tools are very helpful for exploration as well as demonstration.
 
-![ipy_0 13](https://user-images.githubusercontent.com/48195568/62591946-84caa880-b910-11e9-954d-fa34b217aa3b.png)THIS NEEDS TO BE REPLACED
+![Visualisations](\Introduction_to_Jupyter_notebooks\images\Jupyter_visualisations.png)
+![ipy_0 13](https://user-images.githubusercontent.com/48195568/62591946-84caa880-b910-11e9-954d-fa34b217aa3b.png)
+Image credit: (iPython.org)[https://ipython.org/]
 
 ## A word on languages (tee hee)
 
@@ -54,7 +56,7 @@ Jupyter Notebooks can be used with a variety of different programming languages.
 
 ### Python and R
 
-At the moment he two most popular programming tools for data science work are Python and R. While Python is often praised for being a general-purpose language with an easy-to-understand syntax, R's functionality is developed with statisticians in mind. It is said that Python is simple and easy to understand and learn, but Python doesn’t have specialized packages for statistical computing, unlike R.
+At the moment the two most popular programming tools for data science work are Python and R. While Python is often praised for being a general-purpose language with an easy-to-understand syntax, R's functionality is developed with statisticians in mind. It is said that Python is simple and easy to understand and learn, but Python doesn’t have specialized packages for statistical computing, unlike R.
 
 If you don't know any languages, it might be helpful to think about the types of tasks you want to perform. Python is currently the most popular language used in Jupyter Notebooks but you should also consider what is commonly used in your field.
 

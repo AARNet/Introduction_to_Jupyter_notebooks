@@ -1,6 +1,6 @@
 ---
 title: "Working in Jupyter Notebooks with Python"
-teaching: 30
+teaching: 25
 exercises: 15
 questions:
 - "How do I get started in Python?"

@@ -1,7 +1,7 @@
 ---
 title: "Getting started in Markdown"
-teaching: 0
-exercises: 10
+teaching: 5
+exercises: 5
 questions:
 - "What is Markdown and what is it for?"
 objectives:
@@ -25,9 +25,14 @@ We are going to select 'Markdown' from the dropdown menu on the righthand side o
 Let's start with a heading. To create a heading in Markdown you use a hash (#) and a space before the words in the heading, type
 
 
+
 `# Introduction to Jupyter Notebooks`
 
+
+
 into the cell, making sure you have selected 'Markdown' from the dropdown menu above where it shows 'Code' as the default.
+
+![Select_Markdown](\Introduction_to_Jupyter_notebooks\images\Select_Markdown.png)
 
 Already here you can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
 
@@ -35,9 +40,13 @@ Click on 'Run' - the button with the triangle next to a vertical line (it looks 
 
 You have just created a heading in your notebook! Hooray!
 
- Now let's add a subheading. This time you use two hashes (##) before the words in your subheading.
+Now let's add a subheading. This time you use two hashes (##) before the words in your subheading.
+
+
 
   `## A lesson in Markdown`
+
+
 
 Click on 'Run' - the button with the triangle next to a vertical line (it looks  like a 'play' icon), or use the shortcut **Shift+Enter** to execute the cell. You now have a subheading.
 
@@ -57,7 +66,11 @@ Let's say we want to add some text to the cell you executed above. Double-click 
 
 After the first sentence, type
 
+
+
  `I'm doing really well!`
+
+
 
 If you want to add a new cell you can click on the 'up arrow' icon from the buttons above.  To delete or edit a cell, you can toggle up and down the cells.
 
@@ -65,17 +78,25 @@ If you want to add a new cell you can click on the 'up arrow' icon from the butt
 
 Let's add a new cell. Under your subheading, you can add another heading. Go to your subheading 'A lesson in Markdown' and click on the 'plus' button. This will create a new cell. Select 'Markdown' from the drop down menu. Type
 
+
+
 `### Use it to create rich text in a plain text editor`
+
+
 
 Press 'Run' or use the shortcut Shift+Enter.
 
- You now have a level three heading.
+You now have a level three heading.
 
 ### Bold
 
 Now let's try bold font. In a new cell, select 'Markdown' from the dropdown menu again. Type
 
+
+
  `This is **really** interesting.`
+
+
 
 Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
@@ -85,11 +106,15 @@ Voila! Bold!
 
 Now let's try italics. In a new cell, select 'Markdown' from the dropdown menu again. Type
 
+
+
 `This is really _interesting_.`
 
-  - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
+
+Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
 Voila! Italics!
+
 
 > ## Activity
 >
@@ -100,6 +125,7 @@ Voila! Italics!
 > - Adding, removing and editing cells.
 > - As a stretch goal try adding an image!
 {: .challenge}
+
 
 It can feel a little strange, as you already know how to do formatting in programs like Word. However, what we are doing here is 'speaking' directly to the computer, with a different kind of interface so you can also perform calculations, visualisations and use computational methods.
 
