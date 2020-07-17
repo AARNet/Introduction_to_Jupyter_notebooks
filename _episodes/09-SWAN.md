@@ -56,10 +56,10 @@ pandas.read_csv ("")
 ~~~
 {: .language-python}
 
-and place this public link - https://cloudstor.aarnet.edu.au/plus/s/x2uHIEZubsNuqEh/download - between the quotes so it looks like this:
+and place this public link - https://cloudstor.aarnet.edu.au/plus/s/UAIvXO9S0LpYdG4 - between the quotes so it looks like this:
 
 ~~~
-pandas.read_csv ("https://cloudstor.aarnet.edu.au/plus/s/x2uHIEZubsNuqEh/download")
+pandas.read_csv ("https://cloudstor.aarnet.edu.au/plus/s/UAIvXO9S0LpYdG4")
 ~~~
 {: .language-python}
 
