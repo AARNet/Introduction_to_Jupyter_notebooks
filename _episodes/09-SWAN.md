@@ -26,7 +26,7 @@ Data in your SWAN home folder (**/scratch**) is routinely backed up in your Clou
 
 However, work outside of the home folder (**/scratch**) will not be backed up to CloudStor “SWAN_SESSIONS”. To mitigate the risk of losing this data we recommend that after completion, you save your work to the ‘cloudstor’ folder in SWAN.
 
-> ## Activity
+> ## Activity - Find your scratch and CloudStor folders
 >
 > 1. Locate your **/scratch** folder (hint: look towards the top right hand side of the interface and hover over the folder icon)
 > 2. Click on your CloudStor folder to check what you have in there.
@@ -74,12 +74,13 @@ pandas.read_xml ("")
 
 will read an xml file.
 
-> ## Activity
+> ## Activity - Upload a dataset to CloudStor and your notebook
 >
 > 1. Upload your own dataset into Cloudstor. If you don't have one on your computer, you can search for a free dataset to download first:
 >
 > - [Health and medical data](https://www.aihw.gov.au/about-our-data/accessing-australian-government-data)
 > - [General research data](https://researchdata.edu.au/)
+>
 > 2. Once you have uploaded your data, create a public link for it and, in a new notebook, repeat the instructions above with 'pandas', using the new link, and adjusting the file extension to match your dataset.
 {: .challenge}
 

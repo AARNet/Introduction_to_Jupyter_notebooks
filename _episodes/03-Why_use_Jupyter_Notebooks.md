@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Understand why notebooks are used and who uses them"
 activity:
-- "Talk about a variety of applications"
+- "Explore some notebooks"
 keypoints:
 - "Notebooks are used by all kinds of people, for lots of different reasons"
 ---
@@ -36,7 +36,7 @@ Notebooks are being used in an ever-increasing number of domains, by a large ran
 - Signal Processing
 - Engineering Education
 
-> ## Activity
+> ## Activity - Explore some notebooks
 >
 > More and more researchers from different fields are adopting Jupyter Notebooks as part of their research practice.
 >

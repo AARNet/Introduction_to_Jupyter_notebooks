@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Open a notebook then use Markdown to create formatted text"
 activity:
- - "With a group, play with basic Markdown formatting."
+ - "Practicing with Markdown"
 keypoints:
  - "Get started, be fearless!"
 ---
@@ -16,13 +16,19 @@ keypoints:
 
 Remember that [Markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
 
+It is a lightweight markup language with plain text formatting syntax. An example of a markup language is HTML.
+
+In Jupyter Notebooks you use it to create the text you want to accompany your analyses. Remember that Markdown is for writing down comments outside of the code cells, so you can describe what you are doing as you go.
+
+### Let's get hands on with Markdown
+
 In Jupyter Notebooks the first thing you need to do is select the role of the cell you are typing into.
 
 We are going to select 'Markdown' from the dropdown menu on the righthand side of the row of buttons showing the various icons (save, cut, copy etc).
 
 ### Headings
 
-Let's start with a heading. To create a heading in Markdown you use a hash (#) and a space before the words in the heading, type
+Let's start with a heading. To create a heading in Markdown you use a hash (#) and a space before the first word in the heading, type
 
 
 
@@ -116,7 +122,7 @@ Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 Voila! Italics!
 
 
-> ## Activity
+> ## Activity - Practising with Markdown
 >
 > Spend a couple of minutes practicing these skills:
 >
@@ -133,7 +139,7 @@ Remember that the reason Jupyter Notebooks is becoming so popular is because it 
 
 If you want to know more about Markdown, take a look at these pages:
 
+ - [Getting Started](https://www.markdownguide.org/getting-started/)
  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
- - [Markdown Guide](https://markdown-guide.readthedocs.io/en/latest/basics.html)
  - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 {% include links.md %}

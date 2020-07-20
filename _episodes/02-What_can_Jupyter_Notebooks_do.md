@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Understand what you can do with notebooks"
 activity:
- - "How could you see a notebook being useful to you?"
+ - "What programming language is right for you?"
 keypoints:
  - "Notebooks might not be for you! But if they are, they could accelerate your research and be a good friend in a time of need. Or just improve a few processes to make life less tedious. :)"
 ---
@@ -47,8 +47,8 @@ A statistical model can be thought of as a statistical assumption (or set of sta
 One of the really powerful attributes of Jupyter Notebooks is that of visualisation. In notebooks you can create graphs, tables, plots, heatmaps, charts, mathematical equations and so on. These tools are very helpful for exploration as well as demonstration.
 
 ![Visualisations](\Introduction_to_Jupyter_notebooks\images\Jupyter_visualisations.png)
-![ipy_0 13](https://user-images.githubusercontent.com/48195568/62591946-84caa880-b910-11e9-954d-fa34b217aa3b.png)
-Image credit: (iPython.org)[https://ipython.org/]
+
+Image credit: [iPython.org](https://ipython.org/)
 
 ## A word on languages (tee hee)
 
@@ -60,7 +60,7 @@ At the moment the two most popular programming tools for data science work are P
 
 If you don't know any languages, it might be helpful to think about the types of tasks you want to perform. Python is currently the most popular language used in Jupyter Notebooks but you should also consider what is commonly used in your field.
 
-> ## Activity
+> ## Activity - R versus Python
 >
 > 1. In pairs, talk about which programming language might make the most sense for you and why.
 >

@@ -6,6 +6,8 @@ questions:
 - "How do you open a Jupyter Notebook in CloudStor?"
 objectives:
 - "Open a notebook and take a good look around"
+activity:
+- "Get to know the features of the interface"
 keypoints:
  - You're on your way!
 ---
@@ -16,13 +18,13 @@ Follow these step-by-step instructions to get started with Jupyter Notebooks in 
 ### Log in to CloudStor
 
 1. Go to the AARNet website: [https://www.aarnet.edu.au/](https://www.aarnet.edu.au/)
-
-![CloudStor_login](\Introduction_to_Jupyter_notebooks\images\CloudStor_login.png)
-
 2. Click on 'Log In and Tools' in the top righthand corner of the page.
+![CloudStor_login_and_tools](\Introduction_to_Jupyter_notebooks\images\CloudStor_login_and_tools.png)
 3. Select 'CloudStor'.
-4. Choose your organisation and click on 'Login at AARNet'.
-5. Sign-in with your credentials - user name and password - and click 'Login'.
+![CloudStor](\Introduction_to_Jupyter_notebooks\images\CloudStor.png)
+4. Choose your organisation from the list
+![CloudStor_login](\Introduction_to_Jupyter_notebooks\images\CloudStor_login.png)
+5. Sign in with your institutional user name and password - and click 'Login'(Yay! Not new password needed!).
 
 You are now in CloudStor, which is a cloud storage environment.
 
@@ -38,7 +40,7 @@ You are now in CloudStor, which is a cloud storage environment.
 
 ![SWAN_launcher](\Introduction_to_Jupyter_notebooks\images\SWAN_launcher.png)
 
-5. Underneath the heading 'Notebook' you will see a list of programming languages. Click on 'R'. Your untitled notebook will open in place of the launcher
+5. Underneath the heading 'Notebook' you will see a list of programming languages. Click on 'R'. Your untitled notebook will open in place of the launcher.
 6. Select 'File' at the top left hand side of the screen and select 'Save Notebook As'. Name your notebook 'Intro to Jupyter Notebooks', ensuring to keep the **.ipynb** file extension in the name, eg 'Intro to Jupyter Notebooks.ipynb'.
 
 If you don't have access to CloudStor, follow these instructions:
@@ -49,9 +51,9 @@ If you don't have access to CloudStor, follow these instructions:
 
 There are many different ways you can access Jupyter Notebooks, such as MyBinder.org or via Anaconda - we will talk about these options at the end of the workshop.
 
-> ## Activity
+> ## Activity - Get to know the features of the interface
 >
-> 1.Take a good look around the dashboard. You can see there is a menu bar showing some titles that might be recognisable, like the 'File' menu we used before.
+> 1.Take a good look around the interface. You can see there is a menu bar showing some titles that might be recognisable, like the 'File' menu we used before.
 >
 > 2.Click on each of these to see what is in the menu. Make sure you click on the 'Help' function to see what kind of options there are when you hit a problem.
 >
