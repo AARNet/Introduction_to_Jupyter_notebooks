@@ -6,6 +6,8 @@ title: "Introduction to Jupyter Notebooks - a workshop"
 ---
 {% include gh_variables.html %}
 
+
+
 This workshop will introduce you to Jupyter Notebooks. You will learn what they are, what they do and why you might like to use them.
 
 It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research.
@@ -26,6 +28,7 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 
 We’d like to highlight these behaviours in particular:
 
+
 * Use welcoming and inclusive language
 
 * Be respectful of different viewpoints and experiences
@@ -35,6 +38,7 @@ We’d like to highlight these behaviours in particular:
 * Focus on what is best for the community
 
 * Show courtesy and respect towards other community members
+
 
 If you believe someone is violating the Code of Conduct, we ask that you report it to the organisers, presenter or a helper as soon as possible. 
 
@@ -53,10 +57,10 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 >## Learning Objectives
 >
->1.Participants understand what Jupyter Notebooks are, what they do, how they fit in the research landscape and why they might use them.
+>1. Participants understand what Jupyter Notebooks are, what they do, how they fit in the research landscape and why they might use them.
 >
->2.Participants learn how to open a Jupyter Notebook in SWAN, CloudStor's Jupyter Notebook environment, and save it for later.
+>2. Participants learn how to open a Jupyter Notebook in SWAN, CloudStor's Jupyter Notebook environment, and save it for later.
 >
->3.Participants can perform some basic tasks in a notebook, including using Markdown, Python and R.
+>3. Participants can perform some basic tasks in a notebook, including using Markdown, Python and R.
 {: .challenge}
 {% include links.md %}
