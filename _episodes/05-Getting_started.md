@@ -1,7 +1,7 @@
 ---
 title: "Getting started in Cloudstor"
 teaching: 5
-activity: 5
+exercises: 5
 questions:
 - "How do you open a Jupyter Notebook in CloudStor?"
 objectives:
@@ -9,7 +9,7 @@ objectives:
 activity:
 - "Get to know the features of the interface"
 keypoints:
- - You're on your way!
+ - "You're on your way!"
 ---
 ## Getting started in CloudStor
 
