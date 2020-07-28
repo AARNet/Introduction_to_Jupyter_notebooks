@@ -136,9 +136,9 @@ In your 'code' cell, write the following series of commands:
 d = {'employee': 'Juanita Lopez','salary':81000, 'startdate': '2010-11-1'}
 e = {'employee': 'Peter Gynn','salary':83400, 'startdate': '2008-3-25'}
 f = {'employee': 'Jolie Talofa','salary':96800, 'startdate': '2007-3-14'}
-print (d)
-print (e)
-print (f)
+print(d)
+print(e)
+print(f)
 ~~~
 {: .language-python}
 
@@ -167,7 +167,7 @@ In your 'code' cell, write the following series of commands:
 
 ~~~
 for k,v in d.items():
-    print (k, v)
+    print(k, v)
 ~~~
 {: .language-python}
 
@@ -211,7 +211,7 @@ In your 'code' cell, write the following series of commands:
 
 ~~~
 en_de = {"red" : "rot", "blue" : "blau", "yellow" : "gelb"}
-print (en_de)
+print(en_de)
 ~~~
 {: .language-python}
 
@@ -222,7 +222,7 @@ You now have the beginnings of a list of colours in both languages. Let's see if
 In your 'code' cell, write the following series of commands:
 
 ~~~
-print (en_de["red"])
+print(en_de["red"])
 ~~~
 {: .language-python}
 
@@ -237,7 +237,7 @@ In your 'code' cell, write the following series of commands:
 ~~~
 de_fr = {"rot" : "rouge", "blau" : "bleu", "gelb" : "jaune"}
 
-  print ("The French word for red is: " + de_fr[en_de["red"]])
+  print("The French word for red is: " + de_fr[en_de["red"]])
 ~~~
 {: .language-python}
 

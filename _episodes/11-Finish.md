@@ -5,7 +5,7 @@ exercises: 5
 questions:
 - "How do you close and shutdown your session?"
 keypoints:
-- "Shutdown and save in SWAN_SESSIONS or in your CloudStor directory"
+- "Shutdown your session and view files in SWAN_SESSIONS or in your CloudStor directory"
 ---
 # Finishing your session
 
@@ -17,11 +17,15 @@ Once you have a running session, you can check at any time which Notebook files 
 
 ![Running_icon](\Introduction_to_Jupyter_notebooks\images\Shutdown.png)
 
-To shutdown an active session, click **SHUT DOWN** next to the item you wish to shutdown.
+To shutdown an active notebook, click **SHUT DOWN** next to the item you wish to shutdown.
 
-## Do I have to shutdown my Notebook when I am not using it?
+## Do I have to shutdown my session when I am not using it?
 
-We recommend you save and shutdown your Notebook if you are not using it. Another way to finish your session is to click on the file menu then select ‘Shutdown Current Session’.
+We recommend you save and shutdown your Notebook if you are not using it.
+
+The way to finish your session is to click on the file menu then select ‘Shutdown Current Session’.
+
+![Shutdown_SWAN_session](\Introduction_to_Jupyter_notebooks\images\Shutdown_SWAN_session.png)
 
 So that the SWAN experience is fair to all users, if you leave your Notebook idle it will automatically be stopped after **five** days.
 

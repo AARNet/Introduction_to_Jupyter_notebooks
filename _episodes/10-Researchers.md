@@ -68,7 +68,7 @@ One of the benefits of using Jupyter Notebooks is that you can run them in the c
 
 ### How to choose the right Jupyter Notebooks environment for you
 
-- Take a look at [this table of comparisons](https://docs.google.com/spreadsheets/d/12thaaXg1Idr3iWST8QyASNDs08sjdPd6m9mbCGtHFn0/edit#gid=1505836451) UPDATE THIS WITH CLOUDSTOR LINK
+- Take a look at [this table of comparisons](https://cloudstor.aarnet.edu.au/plus/s/LAYCLWFGCZNgCEu)
 
 There are many options. Think about how you work, whether desktop or cloud is more useful or reliable.
 

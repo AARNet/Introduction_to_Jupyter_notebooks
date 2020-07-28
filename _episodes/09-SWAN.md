@@ -22,13 +22,13 @@ When you open SWAN you are taken to the default location for your notebooks whic
 
 The file system in SWAN is a little different to your CloudStor folder. We recommend you use  the SWAN home folder (**/scratch**) as the default space to work in rather than your CloudStor  folder (**/scratch/cloudstor**). In SWAN you will see a sub-folder called “cloudstor” which connects to your CloudStor data.
 
-Data in your SWAN home folder (**/scratch**) is routinely backed up in your CloudStor account in a folder called “SWAN_SESSIONS”.
+Data in your SWAN home folder (**/scratch**) is routinely syncronised in your CloudStor account in a folder called “SWAN_SESSIONS”.
 
 However, work outside of the home folder (**/scratch**) will not be backed up to CloudStor “SWAN_SESSIONS”. To mitigate the risk of losing this data we recommend that after completion, you save your work to the ‘cloudstor’ folder in SWAN.
 
 > ## Activity - Find your scratch and CloudStor folders
 >
-> 1. Locate your **/scratch** folder (hint: look towards the top right hand side of the interface and hover over the folder icon)
+> 1. Locate your **/scratch** folder (hint: look towards the top right hand side of the interface and hover over the folder icon).
 > 2. Click on your CloudStor folder to check what you have in there.
 {: .challenge}
 
@@ -52,14 +52,14 @@ Execute the cell.
 In a new code cell type
 
 ~~~
-pandas.read_csv ("")
+pandas.read_csv("")
 ~~~
 {: .language-python}
 
 and place this public link - https://cloudstor.aarnet.edu.au/plus/s/UAIvXO9S0LpYdG4 - between the quotes so it looks like this:
 
 ~~~
-pandas.read_csv ("https://cloudstor.aarnet.edu.au/plus/s/UAIvXO9S0LpYdG4")
+pandas.read_csv("https://cloudstor.aarnet.edu.au/plus/s/UAIvXO9S0LpYdG4")
 ~~~
 {: .language-python}
 
@@ -68,7 +68,7 @@ Execute the cell.
 You can change the file extension to match that of your dataset, eg .csv, .xml, .txt etc. The command is still the same. eg
 
 ~~~
-pandas.read_xml ("")
+pandas.read_xml("")
 ~~~
 {: .language-python}
 
