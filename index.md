@@ -2,7 +2,7 @@
 layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
-title: "Introduction to Jupyter Notebooks - a workshop"
+title: "A workshop"
 ---
 {% include gh_variables.html %}
 
