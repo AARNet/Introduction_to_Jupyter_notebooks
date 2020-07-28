@@ -46,7 +46,7 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 >## Tools you need
 >
->Please check that you can log in to [cloudstor.aarnet.edu.au](cloudstor.aarnet.edu.au).
+>Please check that you can log in to [cloudstor.aarnet.edu.au](https://cloudstor.aarnet.edu.au).
 >
 >If you do not have CloudStor access you can still attend, just advise the trainer beforehand so arrangements can be made.
 >
