@@ -53,10 +53,8 @@ There are many different ways you can access Jupyter Notebooks, such as MyBinder
 
 > ## Activity - Get to know the features of the interface
 >
-> 1.Take a good look around the interface. You can see there is a menu bar showing some titles that might be recognisable, like the 'File' menu we used before.
->
-> 2.Click on each of these to see what is in the menu. Make sure you click on the 'Help' function to see what kind of options there are when you hit a problem.
->
-> 3.Underneath the menu bar there are some buttons that you can use to perform certain tasks, such as saving your notebook, adding a cell, deleting a cell, running a code cell and so on. Hover your mouse over each of these to see what these buttons do.
+> 1. Take a good look around the interface. You can see there is a menu bar showing some titles that might be recognisable, like the 'File' menu we used before.
+> 2. Click on each of these to see what is in the menu. Make sure you click on the 'Help' function to see what kind of options there are when you hit a problem.
+> 3. Underneath the menu bar there are some buttons that you can use to perform certain tasks, such as saving your notebook, adding a cell, deleting a cell, running a code cell and so on. Hover your mouse over each of these to see what these buttons do.
 {: .challenge}
 {% include links.md %}
