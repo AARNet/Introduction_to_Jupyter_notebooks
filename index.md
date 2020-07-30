@@ -6,7 +6,11 @@ title: "A workshop"
 ---
 {% include gh_variables.html %}
 
-
+> ## Please note
+>
+> This lesson is designed using the Carpentries style but is not endorsed by the Carpentries.
+>
+{: .callout}
 
 This workshop will introduce you to Jupyter Notebooks. You will learn what they are, what they do and why you might like to use them.
 
