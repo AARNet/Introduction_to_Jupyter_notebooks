@@ -18,9 +18,9 @@ rather than taking up memory on your own desktop or laptop. This means you can r
 ## How can I see what I have running in my session?
 
 Once you have a running session, you can check at any time which Notebook files are active by
- clicking the Running icon on the left-hand side of the interface.
+ clicking on the 'Running Terminals and Kernels' icon ![icon]({{ site.baseurl }}/images/running.svg) icon on the left-hand side of the interface.
 
-![Running_icon](\Introduction_to_Jupyter_notebooks\images\Shutdown.png)
+![Running session]({{ site.baseurl }}/images/Shutdown.png)
 
 To shutdown an active notebook, click **SHUT DOWN** next to the item you wish to shutdown.
 
@@ -30,7 +30,7 @@ We recommend you save and shutdown your Notebook if you are not using it.
 
 The way to finish your session is to click on the file menu then select ‘Shutdown Current Session’.
 
-![Shutdown_SWAN_session](\Introduction_to_Jupyter_notebooks\images\Shutdown_SWAN_session.png)
+![Shutdown SWAN session]({{ site.baseurl }}/images/Shutdown_SWAN_session.png)
 
 So that the SWAN experience is fair to all users, if you leave your Notebook idle it will
  automatically be stopped after **five** days.
