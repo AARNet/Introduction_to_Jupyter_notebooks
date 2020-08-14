@@ -17,7 +17,8 @@ keypoints:
 
 A  2017 survey by Kaggle of 16,000 data professionals included this question for data professionals:
 
-“For work, which data science/analytics tools, technologies, and languages have you used in the past year? (Select all that apply).”
+“For work, which data science/analytics tools, technologies, and languages have you used in the
+ past year? (Select all that apply).”
 
 The answers were:
 
@@ -46,7 +47,10 @@ The answers were:
 
 ## Using Jupyter Notebooks in the cloud
 
-One of the benefits of using Jupyter Notebooks is that you can run them in the cloud, without having to use anything other than your browser. In addition to AARNet's SWAN (built in collaboration with CERN with researchers in mind), there are several services you can use to run your notebook in the cloud.
+One of the benefits of using Jupyter Notebooks is that you can run them in the cloud,
+without having to use anything other than your browser. In addition to AARNet's SWAN (built in
+   collaboration with CERN with researchers in mind), there are several services you can use to run
+    your notebook in the cloud.
 
 ### Services available
 
@@ -72,13 +76,16 @@ One of the benefits of using Jupyter Notebooks is that you can run them in the c
 
 There are many options. Think about how you work, whether desktop or cloud is more useful or reliable.
 
-- Is there data available in an integrated environment, so you can work directly with the data, without having to download large datasets? Try your cloud service.
-- Do you work in the field, away from the network, for example? A desktop might be better for you, try [Anaconda](https://anaconda.org/anaconda/python) (desktop app).
+- Is there data available in an integrated environment, so you can work directly with the data,
+ without having to download large datasets? Try your cloud service.
+- Do you work in the field, away from the network, for example? A desktop might be better for you,
+ try [Anaconda](https://anaconda.org/anaconda/python) (desktop app).
 
 > ## Activity
 >
->- Read ['Why Jupyter is data scientists’ computational notebook of choice'](https://www.nature.com/articles/d41586-018-07196-1#:~:text=Jupyter%20is%20a%20free%2C%20open,resources%20in%20a%20single%20document.)
+>- Read ['Why Jupyter is data scientists’ computational notebook of choice'](https://www.nature.com/articles/d41586-018-07196-1).
 >- Discuss in pairs the benefits and any drawbacks of using Jupyter Notebooks in research.
->- Can you imagine how Jupyter Notebooks might be used in your field? Look up some examples both in research and teaching or research communication.
+>- Can you imagine how Jupyter Notebooks might be used in your field?
+Look up some examples both in research and teaching or research communication.
 {: .challenge}
 {% include links.md %}

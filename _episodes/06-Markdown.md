@@ -14,21 +14,28 @@ keypoints:
 
 ## Let's learn to use Markdown
 
-Remember that [Markdown](https://en.wikipedia.org/wiki/Markdown) is how you can make rich (or formatted) text in a plain text editor.
+Remember that [Markdown](https://en.wikipedia.org/wiki/Markdown) is how you can
+make rich (or formatted) text in a plain text editor.
 
-It is a lightweight markup language with plain text formatting syntax. An example of a markup language is HTML.
+It is a lightweight markup language with plain text formatting syntax.
+An example of a markup language is HTML.
 
-In Jupyter Notebooks you use it to create the text you want to accompany your analyses. Remember that Markdown is for writing down comments outside of the code cells, so you can describe what you are doing as you go.
+In Jupyter Notebooks you use it to create the text you want to accompany your analyses.
+ Remember that Markdown is for writing down comments outside of the code cells,
+ so you can describe what you are doing as you go.
 
 ### Let's get hands on with Markdown
 
-In Jupyter Notebooks the first thing you need to do is select the role of the cell you are typing into.
+In Jupyter Notebooks the first thing you need to do is select the role of the cell
+ you are typing into.
 
-We are going to select 'Markdown' from the dropdown menu on the righthand side of the row of buttons showing the various icons (save, cut, copy etc).
+We are going to select 'Markdown' from the dropdown menu on the righthand side of
+ the row of buttons showing the various icons (save, cut, copy etc).
 
 ### Headings
 
-Let's start with a heading. To create a heading in Markdown you use a hash (#) and a space before the first word in the heading, type
+Let's start with a heading. To create a heading in Markdown you use a hash (#) and
+ a space before the first word in the heading, type
 
 
 
@@ -36,13 +43,16 @@ Let's start with a heading. To create a heading in Markdown you use a hash (#) a
 
 
 
-into the cell, making sure you have selected 'Markdown' from the dropdown menu above where it shows 'Code' as the default.
+into the cell, making sure you have selected 'Markdown' from the dropdown menu
+above where it shows 'Code' as the default.
 
-![Select_Markdown](\Introduction_to_Jupyter_notebooks\images\Select_Markdown.png)
+![Select_Markdown]({{ site.baseurl }}/images/Select_Markdown.png)
 
-Already here you can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
+Already here you can see how notebooks are flexible, as you can choose what kind
+ of cell you are writing in (and toggle it at any time!)
 
-Click on 'Run' - the button with the triangle next to a vertical line (it looks  like a 'play' icon), or use the shortcut **Shift+Enter** to execute the cell.
+Click on 'Run' - the button with the triangle next to a vertical line (it looks
+   like a 'play' icon), or use the shortcut **Shift+Enter** to execute the cell.
 
 You have just created a heading in your notebook! Hooray!
 
@@ -54,11 +64,14 @@ Now let's add a subheading. This time you use two hashes (##) before the words i
 
 
 
-Click on 'Run' - the button with the triangle next to a vertical line (it looks  like a 'play' icon), or use the shortcut **Shift+Enter** to execute the cell. You now have a subheading.
+Click on 'Run' - the button with the triangle next to a vertical line (it looks
+  like a 'play' icon), or use the shortcut <kbd>Shift</kbd>+<kbd>Enter</kbd> to execute the cell.
+   You now have a subheading.
 
 ### Body text
 
-To write in your notebook in normal body text, you just have to type your text in the Markdown cell and press 'Run' or use the shortcut **Shift+Enter**. Try typing:
+To write in your notebook in normal body text, you just have to type your text in
+ the Markdown cell and press 'Run' or use the shortcut **Shift+Enter**. Try typing:
 
   `This is my first lesson in Markdown.`
 
@@ -68,7 +81,8 @@ You can now type your comments in your Jupyter Notebook.
 
 ### Editing a cell
 
-Let's say we want to add some text to the cell you executed above. Double-click on that line and you can open up the cell again.
+Let's say we want to add some text to the cell you executed above.
+Double-click on that line and you can open up the cell again.
 
 After the first sentence, type
 
@@ -78,11 +92,14 @@ After the first sentence, type
 
 
 
-If you want to add a new cell you can click on the 'up arrow' icon from the buttons above.  To delete or edit a cell, you can toggle up and down the cells.
+If you want to add a new cell you can click on the 'up arrow' icon from the buttons above.
+ To delete or edit a cell, you can toggle up and down the cells.
 
 ### Adding a new cell
 
-Let's add a new cell. Under your subheading, you can add another heading. Go to your subheading 'A lesson in Markdown' and click on the 'plus' button. This will create a new cell. Select 'Markdown' from the drop down menu. Type
+Let's add a new cell. Under your subheading, you can add another heading.
+Go to your subheading 'A lesson in Markdown' and click on the 'plus' button.
+This will create a new cell. Select 'Markdown' from the drop down menu. Type
 
 
 
@@ -96,7 +113,8 @@ You now have a level three heading.
 
 ### Bold
 
-Now let's try bold font. In a new cell, select 'Markdown' from the dropdown menu again. Type
+Now let's try bold font. In a new cell, select 'Markdown' from the dropdown menu again.
+ Type
 
 
 
@@ -110,7 +128,8 @@ Voila! Bold!
 
 ### Italics
 
-Now let's try italics. In a new cell, select 'Markdown' from the dropdown menu again. Type
+Now let's try italics. In a new cell, select 'Markdown' from the dropdown menu again.
+ Type
 
 
 
@@ -133,13 +152,21 @@ Voila! Italics!
 {: .challenge}
 
 
-It can feel a little strange, as you already know how to do formatting in programs like Word. However, what we are doing here is 'speaking' directly to the computer, with a different kind of interface so you can also perform calculations, visualisations and use computational methods.
+It can feel a little strange, as you already know how to do formatting in programs like Word.
+ However, what we are doing here is 'speaking' directly to the computer, with a
+ different kind of interface so you can also perform calculations, visualisations
+ and use computational methods.
 
-Remember that the reason Jupyter Notebooks is becoming so popular is because it is a format that allows for commenting and text to sit within the same 'document' as code, mathematical equations and visualisations. You can tell the story of what you are doing as you go, and this is a really useful way of being about to reproduce your results.
+Remember that the reason Jupyter Notebooks is becoming so popular is because it
+is a format that allows for commenting and text to sit within the same 'document'
+ as code, mathematical equations and visualisations. You can tell the story of what
+  you are doing as you go, and this is a really useful way of being about to reproduce
+   your results.
 
 If you want to know more about Markdown, take a look at these pages:
 
  - [Getting Started](https://www.markdownguide.org/getting-started/)
  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
  - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
 {% include links.md %}
